@@ -1,0 +1,8 @@
+- my parents (They had me and thought "hey, let's try to raise a reasonable human", and they gave it a pretty good go all things considered)
+- butts (mine is awesome, my wifes is exciting.  Touch a butt today!)
+- the letter C (computers, code, Jethro's favorite letter)
+- vaudville: your leading provider of comedy.  Try a pratfall today
+- Ben Burnes: https://abstractionmusic.bandcamp.com/album/do-this-justice
+	- https://abstractionmusic.bandcamp.com/album/covered-in-cats - an album that slowly transitions from piano to electronic, while also somehow being a concept album about the act of creation
+- my previous employers: they paid me good money to work with software and customers all day.  They weren't sure how it would work out, but they gave me a try anyway.
+- me
