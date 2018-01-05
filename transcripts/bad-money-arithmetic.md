@@ -1,10 +1,17 @@
 # Confession: doing inaccurate arithmetic on currency values in a point-of-sale system
 
-My first job was working on point-of-sale software, which is the software that cashiers use to ring up the stuff that you buy in a store.
+My first job was working on point-of-sale software, the software that cashiers use to ring up the stuff that you buy in a store.
 
-In point-of-sale software, it's very important that your arithmetic always be correct: that you always add totals up to the same amount, and always calculate tax accurately.
+As you might expect, in point-of-sale software, it's very important that your arithmetic always be correct: that totals always add up to the same amount, and always calculate tax accurately.
 
-When I started working on the software, fresh-faced and full of optimism, all of the arithmetic done by the software was done using floating point numbers.  Floating point numbers are a super-efficient way for processors to do calculations on fractional numbers with potentially many many numbers after the decimal point, but without any guarantees for precision.
+When I started working on the software, fresh-faced and full of optimism, all the arithmetic done by the software was done using floating point numbers.  Floating point numbers are a super-efficient way for processors to work with fractional numbers with potentially many many digits after the decimal point.
+
+# Fix this paragraph
+
+The downside is that there aren't an guarantees for precision
+However, but without any guarantees for precision.
+
+
 
 I didn't see any problems with this when I started.
 

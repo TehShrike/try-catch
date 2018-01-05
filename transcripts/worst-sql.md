@@ -1,4 +1,4 @@
-# Confession: the worst SQL queries I've ever written
+# The worst SQL I've ever written
 
 Hi, my name is Josh, and I've abused SQL.
 
